@@ -1,7 +1,8 @@
+console.log("added changes in ayush faeture branch ")
 const sum = require("./calc");
 
-const num1 = 10;
-const num2 = 20;
+const num1 = 200;
+const num2 = 150;
 
 const result = sum(num1, num2);
 
